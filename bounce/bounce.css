@@ -1,0 +1,40 @@
+html, body {
+  margin:0px;
+  background: #2E0023;
+}
+
+#main {
+  width:100%;
+  background: #3F002F;
+  background: radial-gradient(#9D4E89, #3F002F);
+  height: 600px;
+}
+
+#ball {
+  width: 100px;
+  height: 100px;
+  background: #F5D32F;
+  background: radial-gradient(closest-side at 30% 30%, #FFEF9F, #F5D32F, #C6A609 200%);
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  animation-name: bounce;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes bounce {
+  0% {
+    top: 30px;
+    transform: scale(0.8, 1.2)
+  }
+  50% {
+    top: 510px;
+    transform: scale(1.2, 0.8);
+  }
+  100% {
+    top:30px;
+    transform: scale(0.8, 1.2)
+  }
+}
