@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>FCC Survey Form Layout</title>
+<link rel="stylesheet" type="text/css" href="survey.css" media="screen" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<header>
+<h1 id="title">Survey Form</h1>
+</header>
+
+<main>
+<p id="description">Survey Form project for <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form/">freeCodeCamp</a>.</p>
+
+<form id="survey-form">
+  
+  <label for="name" id="name-label">*Name:</label>
+  <input id="name" placeholder="Enter your name" required/>
+  <br />
+  <label for="email" id="email-label">*Email:</label>
+  <input id="email" type="email"  placeholder="Enter your email" required/>
+  <br />
+  <label for="number" id="number-label">*Age:</label>
+  <input type="number" id="number" min="18" max="99" placeholder="Age" required />
+  <br /><br />
+  
+  <label for="dropdown" id="dropdown-label">Dropdown menu:</label>
+  <select id="dropdown">
+    <option value="option1">Option 1</option>
+    <option value="option2">Option 2</option>
+    <option value="option3">Option 3</option>
+    <option value="option4">Option 4</option>
+  </select>
+  <br /><br />
+  
+  <label for="radiobuttons" id="radio-label">Radio button menu:</label><br />
+  <input type="radio" name="radiobuttons" value="option5">Option 5</input><br />
+  <input type="radio" name="radiobuttons" value="option6">Option 6</input><br />
+  <input type="radio" name="radiobuttons" value="option7">Option 7</input>
+  <br /><br />
+
+  <label for="checkboxes" id="checkbox-label">Checkbox menu:</label><br />
+  <input type="checkbox" name="checkboxes" value="option8">Option 8</input><br />
+  <input type="checkbox" name="checkboxes" value="option9">Option 9</input><br />
+  <input type="checkbox" name="checkboxes" value="option10">Option 10</input><br />
+  <input type="checkbox" name="checkboxes" value="option11">Option 11</input><br />
+  <input type="checkbox" name="checkboxes" value="option12">Option 12</input><br />
+  <input type="checkbox" name="checkboxes" value="option13">Option 13</input>
+  <br /><br />
+
+  <label for="additional-comments" id="textarea-label">Any additional comments?</label><br />
+  <textarea id="additional-comments" rows="10" cols="60">
+  </textarea>
+  <br /><br />
+
+  <button id="submit" value="Submit">
+    Submit
+</button>
+
+<p id="footnote">*Required field</p>
+  
+</form>
+</main>
+
+</body>
+</html>
