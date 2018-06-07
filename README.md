@@ -8,4 +8,4 @@ Live demos:
 * [Bouncing ball (CSS animation)](https://codepen.io/jsanderson/full/bKdwxN/)
 * [Menu test (CSS Flexbox)](https://codepen.io/jsanderson/full/JZYdGZ/)
 * [Survey Form Layout (HTML5 form)](https://codepen.io/jsanderson/full/RJroBm/)
-* [Product Landing Page Mockup (HTML5, Flexbox](https://codepen.io/jsanderson/full/zaBeao/)
+* [Product Landing Page Mockup (HTML5, Flexbox)](https://codepen.io/jsanderson/full/zaBeao/)
