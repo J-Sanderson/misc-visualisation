@@ -10,4 +10,4 @@ Live demos:
 * [Survey Form Layout (HTML5 form)](https://codepen.io/jsanderson/full/RJroBm/)
 * [Product Landing Page Mockup (HTML5, Flexbox)](https://codepen.io/jsanderson/full/zaBeao/)
 * [FCC Technical Documentation Page (HTML5)](https://codepen.io/jsanderson/full/wXzNEQ/)
-* [CSS Grid Cards](https://codepen.io/jsanderson/full/oywEGJ/)
+* [CSS Grid Cards(HTML5, CSS Grid)](https://codepen.io/jsanderson/full/oywEGJ/)
