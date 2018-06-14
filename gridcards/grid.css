@@ -1,5 +1,14 @@
+:root {
+  --card: #e6e8fa;
+  --border: #1d2951;
+  --header: #3d2b1f;
+  --text: #1d2951;
+  --shadow: #8c92ac;
+}
+
 html, body {
   margin: 0px;
+  font-family: "Open Sans", sans-serif;
 }
 
 header {
@@ -21,16 +30,37 @@ main {
 }
 
 .card {
-  background-color: #c0c0c0;
-  border: 1px solid grey;
+  background-color: var(--card);
+  border: 1px solid var(--border);
   border-radius: 10px;
-  box-shadow: 5px 5px 10px #c0c0c0;
+  box-shadow: 5px 5px 10px var(--shadow);
   cursor: pointer;
+  text-align: center;
 }
 
 .card img {
   border-radius: 9px 9px 0px 0px;
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid var(--border);
+  margin: 0px;
+}
+
+.card h2 {
+  color: var (--header);
+  margin: 5px;
+  font-size: 20px;
+}
+
+.card hr {
+  width: 50%;
+  background-color: var(--border);
+  border: 0px;
+  height: 1px;
+}
+
+.card p {
+  color: var(--text);
+  margin: 5px;
+  font-size: 14px;
 }
 
 /* large screens */
@@ -45,7 +75,8 @@ main {
   
   .card:hover {
     transform: scale(1.1, 1.1);
-    box-shadow: 10px 10px 20px #c0c0c0;
+    box-shadow: 10px 10px 20px var(--shadow);
   }
   
+}
 }
