@@ -1,0 +1,121 @@
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+  color: #ffffff;
+  text-shadow: 1px 0px 0px #000000, 0px 1px 0px #000000,
+    -1px 0px 0px #000000, 0px -1px 0px #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+main {
+  padding-left: 100px;
+}
+
+#time {
+  font-size: 150px;
+  margin-bottom: 5px;
+}
+
+#date {
+  font-size: 60px;
+  margin-top: 5px;
+}
+  
+.zero {
+  background:url("https://www.publicdomainpictures.net/pictures/260000/velka/ilustracion-nocturna.jpg") no-repeat center center fixed;
+}
+
+.one {
+  background:url("https://www.publicdomainpictures.net/pictures/20000/velka/tree-silhouette-at-night-11296573307PBy.jpg") no-repeat center center fixed;
+}
+
+.two {
+  background:url("https://www.publicdomainpictures.net/pictures/230000/velka/night-landscape-15010066769pV.jpg") no-repeat center center fixed;
+}
+
+.three {
+  background:url("https://www.publicdomainpictures.net/pictures/40000/velka/shed-in-park-at-night-in-winter.jpg") no-repeat center center fixed;
+}
+
+.four {
+  background:url("https://www.publicdomainpictures.net/pictures/20000/velka/night-at-the-siene-paris.jpg") no-repeat center center fixed;
+}
+
+.five {
+  background:url("https://www.publicdomainpictures.net/pictures/40000/velka/working-in-dawn.jpg") no-repeat center center fixed;
+}
+
+.six {
+  background:url("https://www.publicdomainpictures.net/pictures/110000/velka/crows-at-dawn.jpg") no-repeat center center fixed;
+}
+
+.seven {
+  background:url("https://www.publicdomainpictures.net/pictures/20000/velka/dawn.jpg") no-repeat center center fixed;
+}
+
+.eight {
+  background:url("https://www.publicdomainpictures.net/pictures/240000/velka/autumn-forest-with-stream.jpg") no-repeat center center fixed;
+}
+
+.nine {
+  background:url("https://www.publicdomainpictures.net/pictures/60000/velka/autumn-background-1380640829ckG.jpg") no-repeat center center fixed;
+}
+
+.ten {
+  background:url("https://www.publicdomainpictures.net/pictures/200000/velka/fall-in-new-england-1476453711DZG.jpg") no-repeat center center fixed;
+}
+
+.eleven {
+  background:url("https://www.publicdomainpictures.net/pictures/30000/velka/september-in-the-forest.jpg") no-repeat center center fixed;
+}
+
+.twelve {
+  background:url("https://www.publicdomainpictures.net/pictures/250000/velka/winter-landscape-1518020976c98.jpg") no-repeat center center fixed;
+}
+
+.thirteen {
+  background:url("https://www.publicdomainpictures.net/pictures/60000/velka/beach-1379821700lzr.jpg") no-repeat center center fixed;
+}
+
+.fourteen {
+  background:url("https://www.publicdomainpictures.net/pictures/30000/velka/the-island-on-the-river-1335286599nnA.jpg") no-repeat center center fixed;
+}
+
+.fifteen {
+  background:url("https://www.publicdomainpictures.net/pictures/240000/velka/scenic-landscape-1509026810Aqg.jpg") no-repeat center center fixed;
+}
+
+.sixteen {
+  background:url("https://www.publicdomainpictures.net/pictures/230000/velka/scenic-landscape-1499782282lR8.jpg") no-repeat center center fixed;
+}
+
+.seventeen {
+  background:url("https://www.publicdomainpictures.net/pictures/230000/velka/train-tracks-in-the-desert.jpg") no-repeat center center fixed;
+}
+
+.eighteen {
+  background:url("https://www.publicdomainpictures.net/pictures/10000/velka/1150-1240075219xQKp.jpg") no-repeat center center fixed;
+}
+
+.nineteen {
+  background:url("https://www.publicdomainpictures.net/pictures/200000/velka/heather-flower-1475132856pse.jpg") no-repeat center center fixed;
+}
+
+.twenty {
+  background:url("https://www.publicdomainpictures.net/pictures/110000/velka/sandsend-whitby-ii.jpg") no-repeat center center fixed;
+}
+
+.twentyone {
+  background:url("https://www.publicdomainpictures.net/pictures/240000/velka/sunset-behind-two-trees.jpg") no-repeat center center fixed;
+}
+
+.twentytwo {
+  background:url("https://www.publicdomainpictures.net/pictures/140000/velka/evening-light-on-the-lake.jpg") no-repeat center center fixed;
+}
+
+.twentythree {
+  background:url("https://www.publicdomainpictures.net/pictures/30000/velka/half-moon.jpg") no-repeat center center fixed;
+}
